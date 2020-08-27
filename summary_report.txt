@@ -1,0 +1,238 @@
+Sequence Number: 1
+Station: Aberporth
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 16.0 days
+Average annual rainfall: 933.48mm
+
+Sequence Number: 2
+Station: Armagh
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 40.22 days
+Average annual rainfall: 855.66mm
+
+Sequence Number: 3
+Station: Ballypatrick Forest
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 23.22 days
+Average annual rainfall: 1415.91mm
+
+Sequence Number: 4
+Station: Bradford
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 39.56 days
+Average annual rainfall: 878.27mm
+
+Sequence Number: 5
+Station: Braemar
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 107.56 days
+Average annual rainfall: 938.53mm
+
+Sequence Number: 6
+Station: Camborne
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 9.0 days
+Average annual rainfall: 1085.88mm
+
+Sequence Number: 7
+Station: Cambridge NIAB
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 39.67 days
+Average annual rainfall: 536.16mm
+
+Sequence Number: 8
+Station: Cardiff Bute Park
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 37.33 days
+Average annual rainfall: 1170.36mm
+
+Sequence Number: 9
+Station: Chivenor
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 21.11 days
+Average annual rainfall: 966.61mm
+
+Sequence Number: 10
+Station: Cwmystwyth
+Highest: June 2012
+Lowest: December 2012
+Average annual af: 53.0 days
+Average annual rainfall: 1039.37mm
+
+Sequence Number: 11
+Station: Dunstaffnage
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 28.0 days
+Average annual rainfall: 1766.29mm
+
+Sequence Number: 12
+Station: Eastbourne
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 16.89 days
+Average annual rainfall: 795.44mm
+
+Sequence Number: 13
+Station: Eskdalemuir
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 83.22 days
+Average annual rainfall: 1936.67mm
+
+Sequence Number: 14
+Station: Heathrow
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 28.33 days
+Average annual rainfall: 619.1mm
+
+Sequence Number: 15
+Station: Hurn
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 55.89 days
+Average annual rainfall: 896.66mm
+
+Sequence Number: 16
+Station: Lerwick
+Highest: July 2011
+Lowest: December 2012
+Average annual af: 27.89 days
+Average annual rainfall: 1276.18mm
+
+Sequence Number: 17
+Station: Leuchars
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 56.67 days
+Average annual rainfall: 748.42mm
+
+Sequence Number: 18
+Station: Lowestoft
+Highest: July 2012
+Lowest: December 2012
+Average annual af: 29.33 days
+Average annual rainfall: 620.54mm
+
+Sequence Number: 19
+Station: Manston
+Highest: August 2011
+Lowest: December 2012
+Average annual af: 22.56 days
+Average annual rainfall: 640.09mm
+
+Sequence Number: 20
+Station: Nairn
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 53.67 days
+Average annual rainfall: 679.0mm
+
+Sequence Number: 21
+Station: Newton Rigg
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 63.56 days
+Average annual rainfall: 996.74mm
+
+Sequence Number: 22
+Station: Oxford
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 34.44 days
+Average annual rainfall: 662.04mm
+
+Sequence Number: 23
+Station: Paisley
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 42.89 days
+Average annual rainfall: 1277.59mm
+
+Sequence Number: 24
+Station: Ross-on-Wye
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 41.78 days
+Average annual rainfall: 750.71mm
+
+Sequence Number: 25
+Station: Shawbury
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 56.89 days
+Average annual rainfall: 669.73mm
+
+Sequence Number: 26
+Station: Sheffield
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 26.33 days
+Average annual rainfall: 789.27mm
+
+Sequence Number: 27
+Station: Stornoway Airport
+Highest: July 2016
+Lowest: December 2012
+Average annual af: 23.11 days
+Average annual rainfall: 1233.39mm
+
+Sequence Number: 28
+Station: Sutton Bonington
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 41.11 days
+Average annual rainfall: 601.77mm
+
+Sequence Number: 29
+Station: Tiree
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 10.22 days
+Average annual rainfall: 1329.63mm
+
+Sequence Number: 30
+Station: Valley
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 19.56 days
+Average annual rainfall: 875.47mm
+
+Sequence Number: 31
+Station: Waddington
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 36.67 days
+Average annual rainfall: 596.23mm
+
+Sequence Number: 32
+Station: Whitby
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 31.33 days
+Average annual rainfall: 752.67mm
+
+Sequence Number: 33
+Station: Wick Airport
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 36.67 days
+Average annual rainfall: 791.81mm
+
+Sequence Number: 34
+Station: Yeovilton
+Highest: July 2015
+Lowest: December 2012
+Average annual af: 50.78 days
+Average annual rainfall: 707.94mm
+

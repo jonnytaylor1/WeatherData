@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cent</find>
+      <find>graphsController</find>
+      <find>infoToPass</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectId" id="1ZME5DXeg1b7Ki6RIJGj6q8ZnCa" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/JFoenix-master" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="sample" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="JavaFX Coursework" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1584640379254" duration="4720000" />
+      <workItem from="1584654830660" duration="31762000" />
+      <workItem from="1584744265914" duration="11791000" />
+      <workItem from="1584826572306" duration="11000" />
+      <workItem from="1584895380647" duration="7251000" />
+      <workItem from="1584971836729" duration="2367000" />
+      <workItem from="1584974859244" duration="11922000" />
+      <workItem from="1584996372848" duration="13109000" />
+      <workItem from="1585057396688" duration="27932000" />
+      <workItem from="1585235924926" duration="12849000" />
+      <workItem from="1585327458916" duration="14692000" />
+      <workItem from="1585403184321" duration="4299000" />
+      <workItem from="1585410011018" duration="213000" />
+      <workItem from="1585411295351" duration="583000" />
+      <workItem from="1585411898023" duration="7000" />
+      <workItem from="1585416847592" duration="10821000" />
+      <workItem from="1585491081448" duration="7129000" />
+      <workItem from="1585511549132" duration="2569000" />
+      <workItem from="1585572451070" duration="4000" />
+      <workItem from="1585583462835" duration="3627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="147" width="800" height="717" key="#Intentions" timestamp="1585179751092">
+      <screen x="0" y="23" width="1920" height="917" />
+    </state>
+    <state x="93" y="147" width="800" height="717" key="#Intentions/0.23.1920.917@0.23.1920.917" timestamp="1585179751092" />
+    <state x="873" y="144" key="#Main" timestamp="1584655804953">
+      <screen x="0" y="23" width="1920" height="917" />
+    </state>
+    <state x="873" y="144" key="#Main/0.23.1920.917@0.23.1920.917" timestamp="1584655804953" />
+    <state x="937" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1585587401885">
+      <screen x="0" y="23" width="1920" height="917" />
+    </state>
+    <state x="937" y="195" key="#com.intellij.ide.util.MemberChooser/0.23.1920.913@0.23.1920.913" timestamp="1585343695663" />
+    <state x="937" y="196" key="#com.intellij.ide.util.MemberChooser/0.23.1920.917@0.23.1920.917" timestamp="1585587401885" />
+    <state x="937" y="197" key="#com.intellij.ide.util.MemberChooser/0.23.1920.923@0.23.1920.923" timestamp="1585167904901" />
+    <state x="821" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584998764667">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state x="821" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.913@0.23.1920.913" timestamp="1584998764667" />
+    <state x="821" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.917@0.23.1920.917" timestamp="1584720316920" />
+    <state x="698" y="233" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584998715765">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state x="698" y="233" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.913@0.23.1920.913" timestamp="1584998715765" />
+    <state width="1878" height="306" key="GridCell.Tab.0.bottom" timestamp="1585587680977">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584712102361" />
+    <state width="1878" height="306" key="GridCell.Tab.0.bottom/0.23.1920.913@0.23.1920.913" timestamp="1585587680977" />
+    <state width="1312" height="307" key="GridCell.Tab.0.bottom/0.23.1920.917@0.23.1920.917" timestamp="1585183402439" />
+    <state width="944" height="298" key="GridCell.Tab.0.bottom/0.23.1920.923@0.23.1920.923" timestamp="1585183533932" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1920.930@0.23.1920.930" timestamp="1584826541864" />
+    <state width="1878" height="306" key="GridCell.Tab.0.center" timestamp="1585587680976">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="242" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584712102360" />
+    <state width="1878" height="306" key="GridCell.Tab.0.center/0.23.1920.913@0.23.1920.913" timestamp="1585587680976" />
+    <state width="1312" height="307" key="GridCell.Tab.0.center/0.23.1920.917@0.23.1920.917" timestamp="1585183402438" />
+    <state width="944" height="298" key="GridCell.Tab.0.center/0.23.1920.923@0.23.1920.923" timestamp="1585183533931" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1920.930@0.23.1920.930" timestamp="1584826541863" />
+    <state width="1878" height="306" key="GridCell.Tab.0.left" timestamp="1585587680975">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="242" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584712102359" />
+    <state width="1878" height="306" key="GridCell.Tab.0.left/0.23.1920.913@0.23.1920.913" timestamp="1585587680975" />
+    <state width="1312" height="307" key="GridCell.Tab.0.left/0.23.1920.917@0.23.1920.917" timestamp="1585183402438" />
+    <state width="944" height="298" key="GridCell.Tab.0.left/0.23.1920.923@0.23.1920.923" timestamp="1585183533931" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1920.930@0.23.1920.930" timestamp="1584826541863" />
+    <state width="1878" height="306" key="GridCell.Tab.0.right" timestamp="1585587680976">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="242" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584712102361" />
+    <state width="1878" height="306" key="GridCell.Tab.0.right/0.23.1920.913@0.23.1920.913" timestamp="1585587680976" />
+    <state width="1312" height="307" key="GridCell.Tab.0.right/0.23.1920.917@0.23.1920.917" timestamp="1585183402439" />
+    <state width="944" height="298" key="GridCell.Tab.0.right/0.23.1920.923@0.23.1920.923" timestamp="1585183533931" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1920.930@0.23.1920.930" timestamp="1584826541864" />
+    <state width="1878" height="296" key="GridCell.Tab.1.bottom" timestamp="1585261724494">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.1.bottom/0.23.1920.913@0.23.1920.913" timestamp="1585261724494" />
+    <state width="944" height="298" key="GridCell.Tab.1.bottom/0.23.1920.917@0.23.1920.917" timestamp="1585178078984" />
+    <state width="944" height="298" key="GridCell.Tab.1.bottom/0.23.1920.923@0.23.1920.923" timestamp="1585183533933" />
+    <state width="1878" height="303" key="GridCell.Tab.1.bottom/0.23.1920.930@0.23.1920.930" timestamp="1584826541866" />
+    <state width="1878" height="296" key="GridCell.Tab.1.center" timestamp="1585261724493">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.1.center/0.23.1920.913@0.23.1920.913" timestamp="1585261724493" />
+    <state width="944" height="298" key="GridCell.Tab.1.center/0.23.1920.917@0.23.1920.917" timestamp="1585178078984" />
+    <state width="944" height="298" key="GridCell.Tab.1.center/0.23.1920.923@0.23.1920.923" timestamp="1585183533932" />
+    <state width="1878" height="303" key="GridCell.Tab.1.center/0.23.1920.930@0.23.1920.930" timestamp="1584826541865" />
+    <state width="1878" height="296" key="GridCell.Tab.1.left" timestamp="1585261724493">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.1.left/0.23.1920.913@0.23.1920.913" timestamp="1585261724493" />
+    <state width="944" height="298" key="GridCell.Tab.1.left/0.23.1920.917@0.23.1920.917" timestamp="1585178078983" />
+    <state width="944" height="298" key="GridCell.Tab.1.left/0.23.1920.923@0.23.1920.923" timestamp="1585183533932" />
+    <state width="1878" height="303" key="GridCell.Tab.1.left/0.23.1920.930@0.23.1920.930" timestamp="1584826541864" />
+    <state width="1878" height="296" key="GridCell.Tab.1.right" timestamp="1585261724493">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.1.right/0.23.1920.913@0.23.1920.913" timestamp="1585261724493" />
+    <state width="944" height="298" key="GridCell.Tab.1.right/0.23.1920.917@0.23.1920.917" timestamp="1585178078984" />
+    <state width="944" height="298" key="GridCell.Tab.1.right/0.23.1920.923@0.23.1920.923" timestamp="1585183533933" />
+    <state width="1878" height="303" key="GridCell.Tab.1.right/0.23.1920.930@0.23.1920.930" timestamp="1584826541865" />
+    <state x="862" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1585583463712">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state x="862" y="311" key="com.intellij.ide.util.TipDialog/0.23.1920.913@0.23.1920.913" timestamp="1585583463712" />
+    <state x="862" y="312" key="com.intellij.ide.util.TipDialog/0.23.1920.917@0.23.1920.917" timestamp="1584654831628" />
+    <state x="862" y="314" key="com.intellij.ide.util.TipDialog/0.23.1920.923@0.23.1920.923" timestamp="1584826572617" />
+    <state x="640" y="236" width="639" height="486" key="find.popup" timestamp="1585254454560">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state x="640" y="236" width="639" height="486" key="find.popup/0.23.1920.913@0.23.1920.913" timestamp="1585254454560" />
+    <state x="640" y="237" width="639" height="489" key="find.popup/0.23.1920.917@0.23.1920.917" timestamp="1585156318881" />
+    <state x="932" y="102" key="refactoring.ChangeSignatureDialog" timestamp="1584652860445">
+      <screen x="0" y="23" width="1920" height="917" />
+    </state>
+    <state x="932" y="102" key="refactoring.ChangeSignatureDialog/0.23.1920.917@0.23.1920.917" timestamp="1584652860445" />
+    <state x="625" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1584989140891">
+      <screen x="0" y="23" width="1920" height="913" />
+    </state>
+    <state x="625" y="222" width="670" height="676" key="search.everywhere.popup/0.23.1920.913@0.23.1920.913" timestamp="1584989140891" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/GraphsController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaFX Coursework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
